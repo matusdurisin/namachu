@@ -34,3 +34,7 @@
 body {
   font-family: cursive;
 }
+
+.fotky {
+max-width: 30vw;
+}
